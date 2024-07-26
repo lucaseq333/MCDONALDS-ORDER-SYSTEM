@@ -1,7 +1,6 @@
 # McDonald's order system
 
 * Project created using Java language.
-
 * Project is based on my experience working at McDonalds.
 
 
